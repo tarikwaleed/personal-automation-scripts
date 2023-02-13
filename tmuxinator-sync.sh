@@ -4,3 +4,4 @@ rm ~/.config/tmuxinator/*.yml
 cd ~/dotfiles
 stow tmuxinator
 cd -
+echo "Done!"

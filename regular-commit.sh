@@ -1,4 +1,4 @@
 #!/usr/bin/env fish
-add .
-cmm "Changes"
-push master
+gaa
+gcmm "Changes"
+gpush master

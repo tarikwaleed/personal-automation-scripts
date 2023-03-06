@@ -1,4 +1,4 @@
 #!/usr/bin/env fish
 gaa
-gcmm "Changes"
-gpush master
+gcm "Changes"
+gps master
